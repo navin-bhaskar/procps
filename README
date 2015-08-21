@@ -8,6 +8,7 @@ INSTALLATION
 
     make
     make install
+    make install_ps   # To install only ps program
 
     Only the second ("make install") is needed if you just
     want to build and install procps in the normal way.
